@@ -65,6 +65,6 @@ We welcome contributions from the community to enhance the project further. If y
 
 Thank you for visiting the "Student Exam Performance Indicator" ML project repository! For any questions or feedback, please feel free to reach out.
 
-_Your Name_ - SHIVAM SHEKHAR 
-_Your Email_ - Shekharshivam333@gmail.com
+ SHIVAM SHEKHAR 
+ Shekharshivam333@gmail.com
 
