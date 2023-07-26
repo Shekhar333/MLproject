@@ -1,7 +1,5 @@
 # Student Exam Performance Indicator - ML Project
 
-![Project Logo](project_logo.png) _(You can include a logo or an image related to your project)_
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
